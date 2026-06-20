@@ -229,7 +229,6 @@ export default function RestaurantMap({ guestCount, selectedTable, onSelect }: R
                 fontFamily="sans-serif"
                 fontWeight="600"
                 letterSpacing="2"
-                textTransform="uppercase"
               >
                 {zone.label.toUpperCase()}
               </text>
