@@ -22,6 +22,221 @@
     "ctaMenu": "Menü Entdecken",
     "scrollHint": "Scrollen zum Entdecken"
   },
+  "home": {
+    "featured": {
+      "label": "Auswahl des Küchenchefs",
+      "title": "Kulinarische Meisterwerke",
+      "subtitle": "Mit Leidenschaft zubereitet, mit Eleganz serviert"
+    },
+    "experience": {
+      "label": "Das Aliore Erlebnis",
+      "title": "Mehr als eine Mahlzeit",
+      "subtitle": "Wir glauben, dass Speisen Theater ist — jedes Detail, jeder Geschmack, jeder Moment ist choreografiert.",
+      "stat1": { "value": "120+", "label": "Kuratierte Gerichte" },
+      "stat2": { "value": "98%", "label": "Gästezufriedenheit" },
+      "stat3": { "value": "5★", "label": "Michelin-Anerkennung" },
+      "stat4": { "value": "12", "label": "Jahre Exzellenz" }
+    },
+    "chef": {
+      "label": "Lernen Sie den Visionär Kennen",
+      "title": "Küchenchef Alexandre Moreau",
+      "bio": "Geboren in Lyon, ausgebildet in Paris, verfeinert in Tokio. Küchenchef Alexandre bringt drei Kontinente kulinarischer Meisterschaft in jedes Gericht bei Aliore. Seine Philosophie ist einfach: die feinsten Zutaten, präzise zubereitet, mit Seele präsentiert.",
+      "quote": "Kochen ist keine Frage der Bequemlichkeit. Es ist eine Frage der Liebe.",
+      "cta": "Unsere Geschichte"
+    },
+    "reservation": {
+      "title": "Reservieren Sie Ihren Tisch",
+      "subtitle": "Sichern Sie sich Ihren Platz in einem einzigartigen Erlebnis",
+      "cta": "Jetzt Buchen"
+    },
+    "testimonials": {
+      "label": "Was Unsere Gäste Sagen",
+      "title": "Unvergessliche Momente"
+    },
+    "gallery": {
+      "label": "Galerie",
+      "title": "Ein Visuelles Fest",
+      "cta": "Alle Anzeigen"
+    },
+    "blog": {
+      "label": "Geschichten & Einblicke",
+      "title": "Aus Unserer Küche",
+      "cta": "Alle Geschichten Lesen"
+    }
+  },
+  "menu": {
+    "title": "Unsere Speisekarte",
+    "subtitle": "Saisonale Zutaten, zeitlose Rezepte",
+    "search": "Gerichte suchen...",
+    "categories": {
+      "all": "Alle",
+      "breakfast": "Frühstück",
+      "lunch": "Mittagessen",
+      "dinner": "Abendessen",
+      "coffee": "Kaffee & Tee",
+      "desserts": "Desserts",
+      "drinks": "Cocktails & Getränke"
+    },
+    "addToCart": "Zur Bestellung Hinzufügen",
+    "vegan": "Vegan",
+    "glutenFree": "Glutenfrei",
+    "calories": "kcal",
+    "prepTime": "Min",
+    "noResults": "Keine Gerichte gefunden",
+    "featured": "Wahl des Küchenchefs"
+  },
+  "reservation": {
+    "title": "Tisch Reservieren",
+    "subtitle": "Wählen Sie Ihren perfekten Platz",
+    "steps": {
+      "date": "Datum & Uhrzeit",
+      "table": "Tisch Auswählen",
+      "details": "Ihre Daten",
+      "confirm": "Bestätigen"
+    },
+    "form": {
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "guests": "Anzahl der Gäste",
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "notes": "Besondere Wünsche",
+      "notesPlaceholder": "Allergien, Feierlichkeiten, besondere Vorkehrungen...",
+      "next": "Weiter",
+      "back": "Zurück",
+      "confirm": "Reservierung Bestätigen"
+    },
+    "map": {
+      "title": "Restaurant-Grundriss",
+      "zones": {
+        "INDOOR": "Innenbereich",
+        "OUTDOOR": "Außengarten",
+        "TERRACE": "Dachterrasse",
+        "BAR": "Bar-Lounge",
+        "PRIVATE": "Privates Speisezimmer"
+      },
+      "available": "Verfügbar",
+      "reserved": "Reserviert",
+      "occupied": "Belegt",
+      "selected": "Ihre Auswahl",
+      "capacity": "Sitzplätze"
+    },
+    "confirmation": {
+      "title": "Reservierung Bestätigt!",
+      "subtitle": "Wir freuen uns darauf, Sie willkommen zu heißen",
+      "code": "Bestätigungscode",
+      "details": "Reservierungsdetails"
+    }
+  },
+  "about": {
+    "title": "Unsere Geschichte",
+    "subtitle": "Ein Jahrzehnt außergewöhnlicher Momente",
+    "mission": {
+      "title": "Unsere Philosophie",
+      "content": "Aliore entstand aus einem einfachen Glauben: Jede Mahlzeit sollte ein Ereignis sein, jeder Kaffee ein Ritual, jeder Besuch eine Erinnerung. Wir beziehen unsere Zutaten von den besten Erzeugern der Welt, unseren Kaffee von Höhenlagen-Anwesen, unsere Weine von Boutique-Weingütern."
+    },
+    "team": {
+      "title": "Die Aliore-Familie",
+      "subtitle": "Die leidenschaftlichen Menschen hinter jedem perfekten Moment"
+    },
+    "values": {
+      "title": "Wofür Wir Stehen",
+      "quality": { "title": "Kompromisslose Qualität", "desc": "Nur die feinsten Zutaten kommen auf Ihren Tisch." },
+      "craft":   { "title": "Handwerkskunst", "desc": "Jedes Gericht wird von Hand und mit Sorgfalt zubereitet." },
+      "warmth":  { "title": "Echte Wärme", "desc": "Sie sind unser Gast, nicht unser Kunde." },
+      "soul":    { "title": "Beseeltes Essen", "desc": "Wir kochen mit Emotion, nicht nur mit Technik." }
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Eingefangene Momente der Schönheit",
+    "categories": {
+      "all": "Alle",
+      "food": "Küche",
+      "interior": "Innenbereich",
+      "events": "Veranstaltungen",
+      "coffee": "Kaffee"
+    }
+  },
+  "blog": {
+    "title": "Geschichten & Einblicke",
+    "subtitle": "Von unserer Küche in Ihre Welt",
+    "readMore": "Geschichte Lesen",
+    "author": "Von",
+    "share": "Teilen"
+  },
+  "contact": {
+    "title": "Kontaktieren Sie Uns",
+    "subtitle": "Wir würden uns freuen, von Ihnen zu hören",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Nachricht Senden"
+    },
+    "info": {
+      "address": "12 Rue de la Paix, 75001 Paris, Frankreich",
+      "phone": "+33 1 42 96 00 00",
+      "email": "hello@aliore.cafe",
+      "hours": {
+        "title": "Öffnungszeiten",
+        "weekdays": "Mo–Fr: 7:30 – 23:00 Uhr",
+        "weekend": "Sa–So: 8:00 – 00:00 Uhr"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Willkommen Zurück",
+      "subtitle": "Melden Sie sich bei Ihrem Aliore-Konto an",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "remember": "Angemeldet bleiben",
+      "forgot": "Passwort vergessen?",
+      "submit": "Anmelden",
+      "noAccount": "Noch kein Konto?",
+      "register": "Jetzt erstellen"
+    },
+    "register": {
+      "title": "Konto Erstellen",
+      "subtitle": "Werden Sie Teil der Aliore-Familie",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirm": "Passwort Bestätigen",
+      "submit": "Konto Erstellen",
+      "hasAccount": "Bereits ein Konto?",
+      "login": "Anmelden",
+      "terms": "Mit der Registrierung stimmen Sie unseren AGB & Datenschutzbestimmungen zu"
+    }
+  },
+  "dashboard": {
+    "title": "Mein Konto",
+    "nav": {
+      "overview": "Übersicht",
+      "reservations": "Reservierungen",
+      "orders": "Bestellungen",
+      "favorites": "Favoriten",
+      "profile": "Profil"
+    }
+  },
+  "admin": {
+    "title": "Admin-Dashboard",
+    "nav": {
+      "overview": "Übersicht",
+      "reservations": "Reservierungen",
+      "menu": "Speisekarte",
+      "tables": "Tische",
+      "orders": "Bestellungen",
+      "blog": "Blog",
+      "gallery": "Galerie",
+      "testimonials": "Bewertungen",
+      "users": "Benutzer",
+      "settings": "Einstellungen"
+    }
+  },
   "common": {
     "loading": "Laden...",
     "error": "Etwas ist schiefgelaufen",
@@ -43,6 +258,14 @@
   },
   "footer": {
     "tagline": "Außergewöhnliche Momente seit 2019",
+    "links": { "title": "Schnelllinks" },
+    "hours": { "title": "Öffnungszeiten" },
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "cta": "Abonnieren",
+      "desc": "Exklusive Veranstaltungen, saisonale Menüs und mehr"
+    },
     "copyright": "© 2025 Aliore Café. Alle Rechte vorbehalten.",
     "privacy": "Datenschutz",
     "terms": "Nutzungsbedingungen"

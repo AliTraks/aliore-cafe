@@ -22,6 +22,221 @@
     "ctaMenu": "探索菜单",
     "scrollHint": "滚动探索"
   },
+  "home": {
+    "featured": {
+      "label": "主厨精选",
+      "title": "烹饪杰作",
+      "subtitle": "以热情制作，以优雅呈现"
+    },
+    "experience": {
+      "label": "Aliore 体验",
+      "title": "不止一顿饭",
+      "subtitle": "我们相信用餐是一场剧场表演——每个细节、每种风味、每个时刻都经过精心编排。",
+      "stat1": { "value": "120+", "label": "精选菜品" },
+      "stat2": { "value": "98%", "label": "宾客满意度" },
+      "stat3": { "value": "5★", "label": "米其林认可" },
+      "stat4": { "value": "12", "label": "卓越年华" }
+    },
+    "chef": {
+      "label": "认识这位远见者",
+      "title": "亚历山大·莫罗主厨",
+      "bio": "生于里昂，巴黎受训，东京精进。亚历山大主厨将三大洲的烹饪精髓融入 Aliore 的每一道菜品。他的理念很简单：精选食材、精准烹制、用心呈现。",
+      "quote": "烹饪不是为了方便，而是为了爱。",
+      "cta": "我们的故事"
+    },
+    "reservation": {
+      "title": "预订您的餐桌",
+      "subtitle": "在独一无二的体验中确保您的位置",
+      "cta": "立即预订"
+    },
+    "testimonials": {
+      "label": "宾客评价",
+      "title": "难忘的时刻"
+    },
+    "gallery": {
+      "label": "图库",
+      "title": "一场视觉盛宴",
+      "cta": "查看全部"
+    },
+    "blog": {
+      "label": "故事与见解",
+      "title": "来自我们的厨房",
+      "cta": "阅读全部故事"
+    }
+  },
+  "menu": {
+    "title": "我们的菜单",
+    "subtitle": "季节食材，经典配方",
+    "search": "搜索菜品...",
+    "categories": {
+      "all": "全部",
+      "breakfast": "早餐",
+      "lunch": "午餐",
+      "dinner": "晚餐",
+      "coffee": "咖啡与茶",
+      "desserts": "甜点",
+      "drinks": "鸡尾酒与饮品"
+    },
+    "addToCart": "加入订单",
+    "vegan": "纯素",
+    "glutenFree": "无谷蛋白",
+    "calories": "千卡",
+    "prepTime": "分钟",
+    "noResults": "未找到菜品",
+    "featured": "主厨推荐"
+  },
+  "reservation": {
+    "title": "预订餐桌",
+    "subtitle": "选择您的理想位置",
+    "steps": {
+      "date": "日期与时间",
+      "table": "选择餐桌",
+      "details": "您的信息",
+      "confirm": "确认"
+    },
+    "form": {
+      "date": "日期",
+      "time": "时间",
+      "guests": "宾客人数",
+      "name": "全名",
+      "email": "电子邮箱",
+      "phone": "电话号码",
+      "notes": "特殊要求",
+      "notesPlaceholder": "过敏、庆祝活动、特殊安排...",
+      "next": "继续",
+      "back": "返回",
+      "confirm": "确认预订"
+    },
+    "map": {
+      "title": "餐厅平面图",
+      "zones": {
+        "INDOOR": "室内",
+        "OUTDOOR": "户外花园",
+        "TERRACE": "屋顶露台",
+        "BAR": "酒吧休闲区",
+        "PRIVATE": "私人餐室"
+      },
+      "available": "可预订",
+      "reserved": "已预订",
+      "occupied": "已占用",
+      "selected": "您的选择",
+      "capacity": "座位数"
+    },
+    "confirmation": {
+      "title": "预订已确认！",
+      "subtitle": "我们期待为您服务",
+      "code": "确认码",
+      "details": "预订详情"
+    }
+  },
+  "about": {
+    "title": "我们的故事",
+    "subtitle": "十年缔造非凡时刻",
+    "mission": {
+      "title": "我们的理念",
+      "content": "Aliore 诞生于一个简单的信念：每一餐都应是一场盛事，每一杯咖啡都是一种仪式，每一次到访都是一段记忆。我们从世界顶级生产者采购食材，从高海拔庄园采购咖啡，从精品酒庄采购葡萄酒。"
+    },
+    "team": {
+      "title": "Aliore 大家庭",
+      "subtitle": "每个完美时刻背后的热情之人"
+    },
+    "values": {
+      "title": "我们的坚持",
+      "quality": { "title": "毫不妥协的品质", "desc": "只有最优质的食材才能上桌。" },
+      "craft":   { "title": "匠心工艺", "desc": "每道菜都从零开始，手工精心制作。" },
+      "warmth":  { "title": "真诚的温暖", "desc": "您是我们的贵宾，不只是顾客。" },
+      "soul":    { "title": "用心烹饪", "desc": "我们用情感烹饪，而不仅仅是技巧。" }
+    }
+  },
+  "gallery": {
+    "title": "图库",
+    "subtitle": "捕捉美丽的瞬间",
+    "categories": {
+      "all": "全部",
+      "food": "美食",
+      "interior": "室内环境",
+      "events": "活动",
+      "coffee": "咖啡"
+    }
+  },
+  "blog": {
+    "title": "故事与见解",
+    "subtitle": "从我们的厨房到您的世界",
+    "readMore": "阅读故事",
+    "author": "作者",
+    "share": "分享"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们很期待听到您的声音",
+    "form": {
+      "name": "您的姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "留言",
+      "send": "发送留言"
+    },
+    "info": {
+      "address": "法国巴黎75001，和平街12号",
+      "phone": "+33 1 42 96 00 00",
+      "email": "hello@aliore.cafe",
+      "hours": {
+        "title": "营业时间",
+        "weekdays": "周一至周五：上午7:30 – 晚上11:00",
+        "weekend": "周六至周日：上午8:00 – 凌晨12:00"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "欢迎回来",
+      "subtitle": "登录您的 Aliore 账户",
+      "email": "邮箱",
+      "password": "密码",
+      "remember": "记住我",
+      "forgot": "忘记密码？",
+      "submit": "登录",
+      "noAccount": "还没有账户？",
+      "register": "立即创建"
+    },
+    "register": {
+      "title": "创建账户",
+      "subtitle": "加入 Aliore 大家庭",
+      "name": "全名",
+      "email": "邮箱",
+      "password": "密码",
+      "confirm": "确认密码",
+      "submit": "创建账户",
+      "hasAccount": "已经有账户了？",
+      "login": "登录",
+      "terms": "注册即表示您同意我们的条款和隐私政策"
+    }
+  },
+  "dashboard": {
+    "title": "我的账户",
+    "nav": {
+      "overview": "概览",
+      "reservations": "预订记录",
+      "orders": "订单",
+      "favorites": "收藏",
+      "profile": "个人资料"
+    }
+  },
+  "admin": {
+    "title": "管理控制台",
+    "nav": {
+      "overview": "概览",
+      "reservations": "预订管理",
+      "menu": "菜单管理",
+      "tables": "餐桌管理",
+      "orders": "订单管理",
+      "blog": "博客管理",
+      "gallery": "图库管理",
+      "testimonials": "客户评价",
+      "users": "用户管理",
+      "settings": "设置"
+    }
+  },
   "common": {
     "loading": "加载中...",
     "error": "出错了",
@@ -43,6 +258,14 @@
   },
   "footer": {
     "tagline": "自2019年起缔造非凡时刻",
+    "links": { "title": "快速链接" },
+    "hours": { "title": "营业时间" },
+    "newsletter": {
+      "title": "订阅通讯",
+      "placeholder": "您的电子邮箱",
+      "cta": "订阅",
+      "desc": "独家活动、季节菜单及更多内容"
+    },
     "copyright": "© 2025 Aliore Café. 版权所有。",
     "privacy": "隐私政策",
     "terms": "服务条款"
